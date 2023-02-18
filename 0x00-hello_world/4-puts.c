@@ -1,9 +1,12 @@
 #include <stdio.h>
 
 /**
- * Description: this is the main function
- * to print out a string using
- * puts function
+ * main - this is the entry point
+ * @void: a void arguement or parameter
+ *
+ * Description: this is the main function for our
+ * C program with void or no arguments
+ * Return: the returned value is zero
  */
 int main(void)
 {
