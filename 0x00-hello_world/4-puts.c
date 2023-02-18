@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* this is the main function
+/**
+ * Description: this is the main function
  * to print out a string using
  * puts function
  */
